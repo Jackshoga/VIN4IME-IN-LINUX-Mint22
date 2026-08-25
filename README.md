@@ -1,0 +1,2 @@
+# VIN4IME-IN-LINUX-Mint22
+VIN4 輸入法LINUX版(Mint 22)
